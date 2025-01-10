@@ -28,7 +28,10 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
-	+demo 
+	+demo at front
+	+ attended class on Tuesday
+	+ attended class on Thursday
+	+ Introduced myself to Shiv
 - Week 2
 - Week 3
 - Week 4
