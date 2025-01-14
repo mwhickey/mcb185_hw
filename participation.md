@@ -32,6 +32,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ attended class on Tuesday
 	+ attended class on Thursday
 	+ Introduced myself to Shiv
+	+ answered a classmate's question in class
 - Week 2
 	+ attended class on Tuesday
 	+ Introduced myself to Orlando
