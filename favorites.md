@@ -7,3 +7,11 @@
 ## Favorite hobbies
 - skiing 
 - lacrosse
+
+## Favorite Color 
+- Orange
+
+## Favorite Movies
+- Interstellar
+- Inglourious Basterds
+
