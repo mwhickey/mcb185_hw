@@ -1,12 +1,12 @@
 # Favorites
 
-## Favorite foods
-- suhsi
-- pizza
+## Favorite Foods
+- Suhsi
+- Pizza
 
-## Favorite hobbies
-- skiing 
-- lacrosse
+## Favorite Hobbies
+- Skiing 
+- Lacrosse
 
 ## Favorite Color 
 - Orange
