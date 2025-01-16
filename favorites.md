@@ -1,7 +1,7 @@
 # Favorites
 
 ## Favorite Foods
-- Suhsi
+- Sushi
 - Pizza
 
 ## Favorite Hobbies
