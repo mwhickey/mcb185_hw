@@ -45,8 +45,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ attended class on Tuesday
 	+ attended class on Thursday
 	+ introduced myself to Malik
-	
+	+ asked classmate for help on practice problem
+	+ Total 4 points
 - Week 4
+	+ attended class on Tuesday
+	+ introduced myself to DQ
+	+ performed in class assessment
 - Week 5
 - Week 6
 - Week 7
