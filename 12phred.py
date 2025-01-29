@@ -10,17 +10,19 @@ def qual2err(symbol):
 	error_rate = 10 ** (-phred_score / 10)
 	return error_rate
 	
-print(qual2err('#'))
+print(qual2err('A'))
 
 
-def err2qual(error_rate):
-	if not (0 < error_rate < 1):
+def err2qual(er):
+	if not (0 <= er <= 1):
 		return None
-	phred_score = -10 * math.log10(error_rate)
+	phred_score = -10 * math.log10(er)
 	ascii_value = int(phred_score) + 33
-	if 33 <=ascii_value <= 126:
+	if 33 <= ascii_value <= 126:
 		return chr(ascii_value)
 	else: 
 		return None
+print(err2qual(0.001))
 
-print(err2qual())
+
+
