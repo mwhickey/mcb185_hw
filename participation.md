@@ -55,6 +55,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ asked DQ a question in class
 	+ Total 5 points
 - Week 5
+	+ did not go to class on Tuesday as I wasn't feeling well
+	+ attended class on Thursday
+	+ answered classmates question in class
+	+ introduced myself to 
+	+ Total 4 points
 - Week 6
 - Week 7
 - Week 8
