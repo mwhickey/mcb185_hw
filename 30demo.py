@@ -116,12 +116,29 @@ if 'a' in alph: print('no')
 print('index G?', alph.index('G'))
 print('find G?', alph.find('G'))
 
-import sys
-print(sys.argv)
 
-i = int('42')
-x = float('hello')
-print(i * x)
+
+print('-'.join(list('ABCDE'))[3:6])
+#list ('ABCDE') -> converts string into a list of its characters
+#'-'.join -> joins the elements of the list with a - in between each letter
+# [3:6] -> slice that extracts characters 3-5 including dashes
+# => -C-
+
+def codonframe(seq):
+	seqlength = len(seq)
+
+	for frame in range(3):
+		position = 1
+	
+		for i in range(frame, seqlength, 3):
+			codon = seq[i:i+3]
+			if len(codon) == 3:
+				print(f"{position}\t{frame + 1}\t{codon}")
+				position += 1
+
+seq = 'ATGCTGTAA'
+codonframe(seq)
+
 
 
 
