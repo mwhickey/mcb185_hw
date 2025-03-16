@@ -57,11 +57,35 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 5
 	+ did not go to class on Tuesday as I wasn't feeling well
 	+ attended class on Thursday
-	+ answered classmates question in class
-	+ introduced myself to 
-	+ Total 4 points
+	+ answered classmates question in class 
+	+ Total 3 points
 - Week 6
+	+ attended class Tuesday
+	+ performed in class assessment
+	+ attended class Thursday
+	+ introduced myself to Jasmine
+	+ Total 4 points
 - Week 7
+	+ attended class Tuesday
+	+ attended OH on Thursday
+	+ attended class Thursday
+	+ performed in class assessment 
+	+ Total 4 points
 - Week 8
+	+ attended class Tuesday
+	+ attended class Thursday
+	+ asked a classmate a question outside of class
+	+ coded with another person in a separate coding class
+	+ Total 4 points
 - Week 9
+	+ performed in class assessment
+	+ attended class Tuesday
+	+ attended class Thursday
+	+ after in class assessment, asked classmate clarifying question
+	+ Total 4 points
 - Week 10
+	+ attended class Tuesday
+	+ performed in class assessment
+	+ attended class Thursday
+	+ asked question in discord
+	+ Total 4 points
