@@ -86,6 +86,5 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 10
 	+ attended class Tuesday
 	+ performed in class assessment
-	+ attended class Thursday
 	+ asked question in discord
-	+ Total 4 points
+	+ Total 3 points
